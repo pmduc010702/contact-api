@@ -1,0 +1,22 @@
+{
+    "contract": [
+        {
+            "id": 1,
+            "name": "Minh Duc",
+            "phonenumber": "098765321",
+            "avatar" : null
+        },
+        {
+            "id": 2,
+            "name": "Hao Duc",
+            "phonenumber": "013243432",
+            "avatar" : null
+        },
+        {
+            "id": 3,
+            "name": "Chinh Duc",
+            "phonenumber": "0345534534",
+            "avatar" : null
+        }
+    ]
+}
